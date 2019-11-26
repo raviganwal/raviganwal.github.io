@@ -146,50 +146,50 @@
   ],
   "php": [
     {
-      title: "Manage Class - Multiple School Management System",
-      logo: "https://manageclass.com/wp-content/uploads/2016/04/Logo_Transparent.png",
-      url: "https://manageclass.com/",
-      imageArray: [
+      "title": "Manage Class - Multiple School Management System",
+      "logo": "https://manageclass.com/wp-content/uploads/2016/04/Logo_Transparent.png",
+      "url": "https://manageclass.com/",
+      "imageArray": [
         
       ]
     },
     {
-      title: "Tetoota Skill Exchange App",
-      logo: "http://tetoota.com/images/logo/tetoota_logo.png",
-      url: "http://tetoota.com",
-      imageArray: [
+      "title": "Tetoota Skill Exchange App",
+      "logo": "http://tetoota.com/images/logo/tetoota_logo.png",
+      "url": "http://tetoota.com",
+      "imageArray": [
         
       ]
     },
     {
-      title: "Royal Gifts",
-      logo: "https://www.royalgifts.co.in/wp-content/uploads/2019/01/RG-logo-original-min.png",
-      url: "https://www.royalgifts.co.in",
-      imageArray: [
+      "title": "Royal Gifts",
+      "logo": "https://www.royalgifts.co.in/wp-content/uploads/2019/01/RG-logo-original-min.png",
+      "url": "https://www.royalgifts.co.in",
+      "imageArray": [
         
       ]
     },
     {
-      title: "The Oscar Education",
-      logo: "http://theoscareducation.com/logo.png",
-      url: "http://theoscareducation.com/",
-      imageArray: [
+      "title": "The Oscar Education",
+      "logo": "http://theoscareducation.com/logo.png",
+      "url": "http://theoscareducation.com/",
+      "imageArray": [
         
       ]
     },
     {
-      title: "Siddhant Hotel",
-      logo: "https://www.siddhanthotel.com/img/logo.png",
-      url: "https://www.siddhanthotel.com",
-      imageArray: [
+      "title": "Siddhant Hotel",
+      "logo": "https://www.siddhanthotel.com/img/logo.png",
+      "url": "https://www.siddhanthotel.com",
+      "imageArray": [
         
       ]
     },
     {
-      title: "Zivaya Spa",
-      logo: "https://www.zivayaspa.com/wp-content/uploads/2017/02/HDfinal_zivaya_logo.png",
-      url: "https://zivayaspa.com",
-      imageArray: [
+      "title": "Zivaya Spa",
+      "logo": "https://www.zivayaspa.com/wp-content/uploads/2017/02/HDfinal_zivaya_logo.png",
+      "url": "https://zivayaspa.com",
+      "imageArray": [
         
       ]
     }
