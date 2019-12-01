@@ -1,5 +1,5 @@
 {
-  "android": [
+  "androidProject": [
     {
       "title": "Sweetness",
       "logo": "https://bit.ly/2pDX03b",
@@ -58,7 +58,7 @@
       ]
     }
   ],
-  "ios": [
+  "iosProject": [
     {
       "title": "Sweetness",
       "logo": "https://bit.ly/2pDX03b",
@@ -144,7 +144,7 @@
       ]
     }
   ],
-  "php": [
+  "phpProject": [
     {
       "title": "Manage Class - Multiple School Management System",
       "logo": "https://manageclass.com/wp-content/uploads/2016/04/Logo_Transparent.png",
