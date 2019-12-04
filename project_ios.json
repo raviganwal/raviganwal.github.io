@@ -1,5 +1,4 @@
-{
-  "iosProject": [
+[
     {
       "title": "Sweetness",
       "logo": "https://bit.ly/2pDX03b",
@@ -84,5 +83,4 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/a5/07/20/a507201f-c14a-d319-57e1-309533da68a0/pr_source.png/230x0w.png"
       ]
     }
-  ]
-}
+]
