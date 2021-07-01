@@ -1,5 +1,14 @@
 [
     {
+    "title":"The Rambam App"
+        "logo":"https://play-lh.googleusercontent.com/uHzfTqwF_OOvKXazGQMQs56_llksIs7lc4xXk7ogmzthxbBpsiXjLiUyUn_eFRSLeI8=s180",
+        "url":"https://play.google.com/store/apps/details?id=org.chabad.rambam&hl=en_IN&gl=US",
+        "imageArray": [
+        "https://play-lh.googleusercontent.com/R-RBD5Ye3L4BarNtmijSx7OzDXbcFLCHLdUiN7ZPGm6TzKRbhCavvQ9EQS26d9VJP28=w720-h310",
+        "https://play-lh.googleusercontent.com/sCc9BAU6-T-lICr0eTE_Qeb3NEf9_rn55eJCDYCRiU6dt9tAWG9QYy7-J6v1VWDYg2ik=w720-h310"
+      ]        
+    },
+    {
       "title": "XploreUp",
       "logo": "https://lh3.googleusercontent.com/uzjG2HgnGv1l5vmxDrElAhfl9RxSOlpIB7_TIGX_OXuWTcz_SuSY10a2EBP2EHB8yFc=s180-rw",
       "url": "https://play.google.com/store/apps/details?id=com.snv.xploreup&hl=en",
