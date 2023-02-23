@@ -41,12 +41,23 @@
     ]
   },
   {
-    "title": "Campus Box",
-    "logo": "https://lh3.googleusercontent.com/8tMF9bzU83UuzSkdUzqXMdivjkYO-kkC2aqq4hXWH82oOo7RA27dD41li3txfk8W3Ow=s180-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.campuscare&hl=hi",
-    "imageArray": [
-      "https://lh3.googleusercontent.com/--nxZgcuobOT4moh2dqm1o3XeN421x7jZ06sELdRiFluuB-2zl0zI8pD75qQItBt8R8=w720-h310-rw",
-      "https://lh3.googleusercontent.com/izVc-W-LKN5iHlGhZxDI6csJLJ5C4t_TJjqDe4NVV394W3QmxLn0Xg71Hl8rrYO2Cw=w720-h310-rw"
-    ]
+    "title": "Tehillim",
+    "logo": "https://play-lh.googleusercontent.com/EWpwpW8An-hj4OR--6VwVirppH5rFO7-Ar7D8oh5cOm61-WqXgIG3RE_ozxItj38h2A=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=org.chabad.tehillim",
+    "imageArray": []
   }
+  ,
+  {
+    "title": "Chayenu",
+    "logo": "https://play-lh.googleusercontent.com/atb0yduVyeE3f2Kw9uO5wg6DYVvuSV9ZylV3ZRARJCx7lzGYIghFawXFFwfrNn1QCg=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.ionicframework.chayenu504086",
+    "imageArray": []
+  },
+    {
+    "title": "Silver panda",
+    "logo": "https://as2.ftcdn.net/v2/jpg/02/46/43/15/1000_F_246431578_VPIyNhsmVHzfeIyb6u7PwM6TrgSfYdGt.jpg",
+    "url": "https://silver-panda-fe230.web.app/#/",
+    "imageArray": []
+  }
+
 ]
